@@ -1,6 +1,6 @@
 # ChatApp-WebService
 
-This repository contains the web-service for the Chat-App. Check the Quiz-App repository for use.
+This repository contains the web-service for the Chat-App. Check the Chat-App repository for use.
 
 ## Getting Started
 
@@ -21,7 +21,7 @@ and
 
 In src\main\java\com\app\chatapp\rest, open the RestService.java file and enter your MySQL user and password where mentioned.
 
-Navigate to the *Questions* directory and run `mvn clean install`
+Navigate to the project root directory and run `mvn clean install`
 
 Start the web-service using `mvn jetty:run`
 
