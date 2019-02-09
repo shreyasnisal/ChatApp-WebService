@@ -1,0 +1,4 @@
+com\app\chatapp\app\EntryPoint.class
+com\app\chatapp\rest\RestService.class
+com\app\chatapp\rest\User.class
+com\app\chatapp\rest\Message.class
