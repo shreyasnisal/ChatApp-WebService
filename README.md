@@ -1,6 +1,6 @@
 # ChatApp-WebService
 
-This repository contains the web-service for the Chat-App. Check the Chat-App repository for use.
+This repository contains the web-service for the Chat-App. Check the [Chat-App repository](https://github.com/shreyasnisal/Chat-App) for use.
 
 ## Getting Started
 
